@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Interactive Terminal Header -->
   <a href="https://prachurjyaghy.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=[INITIALIZING_DARK_HUD_ENV...];PRACHURJYA+SHARMA+%7C+SILICON+ARCHITECT;6nm+%7C+7nm+%7C+12nm+%7C+22nm+Tapeouts;TCL%2FPerl+EDA+Automation+%26+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=[INITIALIZITING+THE+PD+ENGINEER];PRACHURJYA+SHARMA+%7C+SILICON+ARCHITECT;6nm+%7C+7nm+%7C+12nm+%7C+22nm+Tapeouts;TCL%2FPerl+EDA+Automation+%26+Cloud" alt="Typing SVG" />
   </a>
   
   <h3>🚀 <a href="https://prachurjyaghy.github.io/">LAUNCH INTERACTIVE VLSI WEB TERMINAL</a> 🚀</h3>
