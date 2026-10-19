@@ -15,13 +15,13 @@
 
 <br>
 
----
+<div style="background-color: #010204; border: 1px solid rgba(0, 240, 255, 0.2); border-radius: 12px; padding: 24px; color: #f8fafc;">
 
 ### 🎛️ SYSTEM OVERVIEW (AT-A-GLANCE)
 
 | ⚙️ Executive Profile | 🛠️ Core Toolchain & Stack |
 | :--- | :--- |
-| • **Role:** Physical Design Engineer at Quest Global (Bangalore)[cite: 1]<br>• **Scope:** Advanced Nodes (6nm, 7nm, 12nm, 22nm)[cite: 1, 2]<br>• **Focus:** RTL-to-GDSII, Mesh CTS, Multi-Power Domains[cite: 1, 2]<br>• **Automation:** Custom TCL/Perl & C#/.NET Software SDE roots[cite: 1, 2] | • **Commercial EDA:** Innovus, Aprisa, PrimeTime, Calibre[cite: 1, 2]<br>• **Open-Source:** OpenLane, SKY130, Magic, Yosys[cite: 1, 2]<br>• **Sign-off:** STA, EM/IR, CLP, DRC/LVS[cite: 1]<br>• **Languages:** TCL, Perl, Verilog, C#, Azure[cite: 1, 2] |
+| • **Role:** Physical Design Engineer at Quest Global (Bangalore)<br>• **Scope:** Advanced Nodes (6nm, 7nm, 12nm, 22nm)<br>• **Focus:** RTL-to-GDSII, Mesh CTS, Multi-Power Domains<br>• **Automation:** Custom TCL/Perl & C#/.NET Software SDE roots | • **Commercial EDA:** Innovus, Aprisa, PrimeTime, Calibre<br>• **Open-Source:** OpenLane, SKY130, Magic, Yosys<br>• **Sign-off:** STA, EM/IR, CLP, DRC/LVS<br>• **Languages:** TCL, Perl, Verilog, C#, Azure |
 
 ---
 
@@ -29,12 +29,14 @@
 
 | Node & Project | Complexity & Target | Key Engineering Impact & Results |
 | :--- | :--- | :--- |
-| **6nm Network Chip** <br>*(MediaTek)*[cite: 1] | **3.4M Instances**[cite: 1] <br>77 Macros[cite: 1] | 500 MHz[cite: 1] | • Overcame multi-power placement congestion[cite: 1]. <br>• **Reduced metal DRCs by 25%** via custom constraints[cite: 1]. <br>• **Cut IR drop resistance by ~40%**[cite: 1]. |
-| **7nm Wi-Fi Subsystem** <br>*(MediaTek)*[cite: 2] | **3.0M Instances**[cite: 2] <br>87 Macros[cite: 2] | 1.25 GHz[cite: 2] | • Delivered full flow focusing on **Mesh CTS**[cite: 2]. <br>• Solved critical setup/hold latency timing[cite: 2]. <br>• Automated metal DRC/LVS sign-off via TCL scripts[cite: 2]. |
-| **12nm Television SoC** <br>*(MediaTek)*[cite: 2] | **1.68M Instances**[cite: 2] <br>113 Macros[cite: 2] | AON Partition[cite: 2] | • Implemented Always-On (AON) partition Floorplan-to-Routing[cite: 2]. <br>• Executed high-pressure Functional & Metal ECOs[cite: 2]. <br>• Clean LEC and CLP convergence under tight deadlines[cite: 2]. |
-| **22nm Full-Chip Satellite** <br>*(ORCA Systems)*[cite: 2] | **4.0M Instances**[cite: 2] <br>287 Macros[cite: 2] | Full-Chip[cite: 2] | • Full-chip Floorplanning (Die, IO Pads, DCAPs, Level-Shifters)[cite: 2]. <br>• Engineered Power Grid rings and stripe creation[cite: 2]. <br>• Multi-voltage STA and IR drop closure across corners[cite: 2]. |
+| **6nm Network Chip** <br>*(MediaTek)* | **3.4M Instances** <br>77 Macros | 500 MHz | • Overcame multi-power placement congestion. <br>• **Reduced metal DRCs by 25%** via custom constraints. <br>• **Cut IR drop resistance by ~40%**. |
+| **7nm Wi-Fi Subsystem** <br>*(MediaTek)* | **3.0M Instances** <br>87 Macros | 1.25 GHz | • Delivered full flow focusing on **Mesh CTS**. <br>• Solved critical setup/hold latency timing. <br>• Automated metal DRC/LVS sign-off via TCL scripts. |
+| **12nm Television SoC** <br>*(MediaTek)* | **1.68M Instances** <br>113 Macros | AON Partition | • Implemented Always-On (AON) partition Floorplan-to-Routing. <br>• Executed high-pressure Functional & Metal ECOs. <br>• Clean LEC and CLP convergence under tight deadlines. |
+| **22nm Full-Chip Satellite** <br>*(ORCA Systems)* | **4.0M Instances** <br>287 Macros | Full-Chip | • Full-chip Floorplanning (Die, IO Pads, DCAPs, Level-Shifters). <br>• Engineered Power Grid rings and stripe creation. <br>• Multi-voltage STA and IR drop closure across corners. |
 
----
+</div>
+
+<br>
 
 ### 📊 GITHUB ACTIVITY LOG
 
